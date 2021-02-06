@@ -22,9 +22,9 @@
     "url": "$RINFO_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pet-project",
-    "status": "up",
+    "status": "down",
     "uptime": "98.49%",
-    "uptimeDay": "97.24%",
+    "uptimeDay": "97.19%",
     "uptimeWeek": "98.25%",
     "uptimeMonth": "98.41%",
     "uptimeYear": "98.49%",
@@ -34,7 +34,7 @@
     "timeMonth": 1823,
     "timeYear": 1814,
     "dailyMinutesDown": {
-      "2021-02-06": 20,
+      "2021-02-06": 21,
       "2021-02-05": 20,
       "2021-02-03": 24,
       "2021-02-02": 25,
@@ -57,9 +57,9 @@
     "url": "$COLLEGE_PROJECT_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "college-project-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -68,6 +68,8 @@
     "timeWeek": 1255,
     "timeMonth": 1104,
     "timeYear": 1106,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-06": 0
+    }
   }
 ]
