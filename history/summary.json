@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pet-project",
     "status": "up",
-    "uptime": "98.50%",
+    "uptime": "98.51%",
     "uptimeDay": "97.69%",
     "uptimeWeek": "98.49%",
     "uptimeMonth": "98.23%",
-    "uptimeYear": "98.50%",
+    "uptimeYear": "98.51%",
     "time": 1980,
     "timeDay": 1887,
     "timeWeek": 3090,
@@ -59,9 +59,9 @@
     "url": "$COLLEGE_PROJECT_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "college-project-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -70,6 +70,8 @@
     "timeWeek": 909,
     "timeMonth": 1070,
     "timeYear": 1050,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-12": 0
+    }
   }
 ]
