@@ -59,19 +59,19 @@
     "url": "$COLLEGE_PROJECT_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "college-project-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1050,
-    "timeDay": 575,
-    "timeWeek": 909,
-    "timeMonth": 1070,
-    "timeYear": 1050,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.95%",
+    "time": 1039,
+    "timeDay": 577,
+    "timeWeek": 881,
+    "timeMonth": 1056,
+    "timeYear": 1039,
     "dailyMinutesDown": {
-      "2021-02-12": 0
+      "2021-02-12": 24
     }
   }
 ]
