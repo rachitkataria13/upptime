@@ -4,19 +4,19 @@
     "url": "http://rachitkataria.co.in",
     "icon": "https://favicons.githubusercontent.com/rachitkataria.co.in",
     "slug": "rachit-kataria-portfolio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 450,
-    "timeDay": 418,
-    "timeWeek": 431,
-    "timeMonth": 435,
-    "timeYear": 450,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "94.87%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.96%",
+    "time": 449,
+    "timeDay": 390,
+    "timeWeek": 422,
+    "timeMonth": 433,
+    "timeYear": 449,
     "dailyMinutesDown": {
-      "2021-05-06": 0
+      "2021-05-06": 74
     }
   },
   {
