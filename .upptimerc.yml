@@ -8,8 +8,6 @@ sites:
     url: http://rachitkataria.co.in
   - name: Pet Project
     url: $RINFO_SITE
-  - name: College Project Site
-    url: $COLLEGE_PROJECT_SITE
 assignees: # Users to assign downtime issues (optional)
   - rachitkataria13
 status-website:
