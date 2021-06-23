@@ -1,7 +1,7 @@
 url: $RINFO_SITE
-status: up
-code: 200
-responseTime: 1768
-lastUpdated: 2021-06-23T09:55:36.940Z
+status: down
+code: 500
+responseTime: 6649
+lastUpdated: 2021-06-23T11:54:29.243Z
 startTime: Tue Jan 05 2021 11:35:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
