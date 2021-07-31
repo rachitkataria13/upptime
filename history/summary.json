@@ -13,7 +13,7 @@
     "time": 401,
     "timeDay": 228,
     "timeWeek": 316,
-    "timeMonth": 329,
+    "timeMonth": 331,
     "timeYear": 401,
     "dailyMinutesDown": {
       "2021-06-11": 35,
@@ -26,18 +26,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pet-project",
     "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "87.17%",
-    "uptimeWeek": "92.18%",
-    "uptimeMonth": "94.86%",
-    "uptimeYear": "99.07%",
+    "uptime": "99.06%",
+    "uptimeDay": "87.73%",
+    "uptimeWeek": "92.26%",
+    "uptimeMonth": "94.64%",
+    "uptimeYear": "99.06%",
     "time": 2791,
-    "timeDay": 2241,
+    "timeDay": 2306,
     "timeWeek": 3543,
-    "timeMonth": 2848,
+    "timeMonth": 2842,
     "timeYear": 2791,
     "dailyMinutesDown": {
-      "2021-07-30": 184,
+      "2021-07-30": 176,
       "2021-07-29": 222,
       "2021-07-28": 104,
       "2021-07-27": 260,
@@ -70,7 +70,8 @@
       "2021-06-28": 138,
       "2021-06-26": 53,
       "2021-06-25": 121,
-      "2021-06-24": 23
+      "2021-06-24": 23,
+      "2021-06-23": 18
     }
   }
 ]
