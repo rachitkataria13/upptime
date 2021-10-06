@@ -25,16 +25,16 @@
     "url": "$RINFO_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pet-project",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "95.30%",
-    "uptimeWeek": "95.80%",
-    "uptimeMonth": "96.77%",
-    "uptimeYear": "99.28%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "95.33%",
+    "uptimeWeek": "96.00%",
+    "uptimeMonth": "96.81%",
+    "uptimeYear": "99.29%",
     "time": 3108,
-    "timeDay": 1439,
-    "timeWeek": 2671,
-    "timeMonth": 3744,
+    "timeDay": 1334,
+    "timeWeek": 2453,
+    "timeMonth": 3767,
     "timeYear": 3108,
     "dailyMinutesDown": {
       "2021-10-06": 47,
@@ -68,8 +68,7 @@
       "2021-08-31": 199,
       "2021-08-30": 327,
       "2021-08-29": 77,
-      "2021-08-28": 16,
-      "2021-08-27": 18
+      "2021-08-28": 16
     }
   }
 ]
