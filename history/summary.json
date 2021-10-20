@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/rachitkataria.co.in",
     "slug": "rachit-kataria-portfolio",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.97%",
+    "uptimeDay": "94.23%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.97%",
     "time": 420,
-    "timeDay": 334,
-    "timeWeek": 532,
-    "timeMonth": 492,
+    "timeDay": 0,
+    "timeWeek": 527,
+    "timeMonth": 488,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2021-10-20": 0,
+      "2021-10-20": 83,
       "2021-06-11": 35,
       "2021-06-09": 19
     }
@@ -26,17 +26,17 @@
     "url": "$RINFO_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pet-project",
-    "status": "up",
-    "uptime": "99.38%",
+    "status": "down",
+    "uptime": "99.39%",
     "uptimeDay": "97.40%",
-    "uptimeWeek": "98.01%",
+    "uptimeWeek": "98.00%",
     "uptimeMonth": "96.85%",
-    "uptimeYear": "99.38%",
-    "time": 3180,
-    "timeDay": 11828,
-    "timeWeek": 5312,
+    "uptimeYear": "99.39%",
+    "time": 3179,
+    "timeDay": 8976,
+    "timeWeek": 5317,
     "timeMonth": 3849,
-    "timeYear": 3180,
+    "timeYear": 3179,
     "dailyMinutesDown": {
       "2021-10-20": 37,
       "2021-10-19": 61,
@@ -76,7 +76,7 @@
       "2021-09-05": 132,
       "2021-09-04": 45,
       "2021-09-03": 176,
-      "2021-09-02": 122
+      "2021-09-02": 97
     }
   }
 ]
