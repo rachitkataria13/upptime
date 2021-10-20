@@ -4,9 +4,9 @@
     "url": "http://rachitkataria.co.in",
     "icon": "https://favicons.githubusercontent.com/rachitkataria.co.in",
     "slug": "rachit-kataria-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 492,
     "timeYear": 420,
     "dailyMinutesDown": {
+      "2021-10-20": 0,
       "2021-06-11": 35,
       "2021-06-09": 19
     }
@@ -27,14 +28,14 @@
     "slug": "pet-project",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "96.33%",
+    "uptimeDay": "97.40%",
     "uptimeWeek": "98.01%",
     "uptimeMonth": "96.85%",
     "uptimeYear": "99.38%",
     "time": 3180,
-    "timeDay": 10631,
+    "timeDay": 11828,
     "timeWeek": 5312,
-    "timeMonth": 3838,
+    "timeMonth": 3849,
     "timeYear": 3180,
     "dailyMinutesDown": {
       "2021-10-20": 37,
