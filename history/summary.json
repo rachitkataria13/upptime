@@ -11,9 +11,9 @@
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.94%",
     "time": 423,
-    "timeDay": 565,
-    "timeWeek": 516,
-    "timeMonth": 513,
+    "timeDay": 505,
+    "timeWeek": 521,
+    "timeMonth": 512,
     "timeYear": 423,
     "dailyMinutesDown": {
       "2021-10-21": 117,
@@ -28,18 +28,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pet-project",
     "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "97.79%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "99.43%",
-    "time": 3214,
-    "timeDay": 3115,
-    "timeWeek": 3596,
-    "timeMonth": 3933,
-    "timeYear": 3214,
+    "uptime": "99.42%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "97.04%",
+    "uptimeYear": "99.42%",
+    "time": 3213,
+    "timeDay": 2006,
+    "timeWeek": 3656,
+    "timeMonth": 3932,
+    "timeYear": 3213,
     "dailyMinutesDown": {
-      "2021-10-29": 25,
+      "2021-10-29": 18,
       "2021-10-28": 36,
       "2021-10-27": 18,
       "2021-10-25": 22,
@@ -82,7 +82,7 @@
       "2021-09-09": 57,
       "2021-09-07": 219,
       "2021-09-06": 178,
-      "2021-09-05": 17
+      "2021-09-05": 38
     }
   }
 ]
