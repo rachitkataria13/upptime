@@ -15,6 +15,7 @@ status-website:
   cname: status.rachitkataria.co.in
   # Uncomment the following line if you don't have a custom domain and add your repo name
   #   baseUrl: /upptime
+  theme: dark
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Rachit Kataria - Status
   introTitle: "**Uptime Status**"
