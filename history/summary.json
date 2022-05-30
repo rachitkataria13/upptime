@@ -4,18 +4,20 @@
     "url": "http://rachitkataria.co.in",
     "icon": "https://favicons.githubusercontent.com/rachitkataria.co.in",
     "slug": "rachit-kataria-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 484,
-    "timeDay": 358,
-    "timeWeek": 480,
-    "timeMonth": 486,
+    "timeDay": 385,
+    "timeWeek": 472,
+    "timeMonth": 483,
     "timeYear": 501,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-30": 0
+    }
   },
   {
     "name": "Pet Project",
