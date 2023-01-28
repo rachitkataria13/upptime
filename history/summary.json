@@ -8,7 +8,7 @@
     "uptime": "95.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.68%",
+    "uptimeMonth": "98.29%",
     "uptimeYear": "91.25%",
     "time": 504,
     "timeDay": 394,
@@ -61,18 +61,19 @@
     "url": "$RINFO_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pet-project",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "97.68%",
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "97.67%",
     "uptimeMonth": "96.74%",
-    "uptimeYear": "99.26%",
-    "time": 3400,
-    "timeDay": 6671,
-    "timeWeek": 6754,
-    "timeMonth": 5813,
-    "timeYear": 3217,
+    "uptimeYear": "99.27%",
+    "time": 3411,
+    "timeDay": 7277,
+    "timeWeek": 6847,
+    "timeMonth": 5863,
+    "timeYear": 3224,
     "dailyMinutesDown": {
+      "2023-01-28": 0,
       "2023-01-27": 30,
       "2023-01-26": 33,
       "2023-01-25": 43,
@@ -144,8 +145,7 @@
       "2022-07-21": 28,
       "2022-07-19": 44,
       "2022-07-16": 24,
-      "2022-07-12": 19,
-      "2022-07-09": 28
+      "2022-07-12": 19
     }
   }
 ]
