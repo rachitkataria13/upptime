@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.25%",
-    "time": 504,
-    "timeDay": 411,
-    "timeWeek": 430,
-    "timeMonth": 474,
+    "time": 505,
+    "timeDay": 434,
+    "timeWeek": 418,
+    "timeMonth": 475,
     "timeYear": 472,
     "dailyMinutesDown": {
       "2022-12-28": 1089,
@@ -62,18 +62,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pet-project",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "96.88%",
-    "uptimeYear": "99.27%",
-    "time": 3539,
-    "timeDay": 8176,
-    "timeWeek": 7132,
-    "timeMonth": 6149,
-    "timeYear": 3355,
+    "uptime": "99.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "96.89%",
+    "uptimeYear": "99.26%",
+    "time": 3533,
+    "timeDay": 7089,
+    "timeWeek": 7122,
+    "timeMonth": 6142,
+    "timeYear": 3358,
     "dailyMinutesDown": {
-      "2023-01-30": 7,
       "2023-01-29": 15,
       "2023-01-28": 19,
       "2023-01-27": 30,
@@ -145,7 +144,8 @@
       "2022-07-23": 22,
       "2022-07-22": 82,
       "2022-07-21": 28,
-      "2022-07-19": 44
+      "2022-07-19": 44,
+      "2022-07-16": 24
     }
   }
 ]
