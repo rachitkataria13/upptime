@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rachitkataria.co.in.ico",
     "slug": "rachit-kataria-portfolio",
     "status": "up",
-    "uptime": "95.88%",
+    "uptime": "95.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
@@ -62,18 +62,19 @@
     "url": "$RINFO_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pet-project",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "85.51%",
     "uptimeMonth": "94.53%",
-    "uptimeYear": "98.97%",
-    "time": 3703,
-    "timeDay": 7558,
-    "timeWeek": 7456,
-    "timeMonth": 6827,
-    "timeYear": 3755,
+    "uptimeYear": "98.98%",
+    "time": 3715,
+    "timeDay": 9192,
+    "timeWeek": 7607,
+    "timeMonth": 6857,
+    "timeYear": 3765,
     "dailyMinutesDown": {
+      "2023-02-21": 0,
       "2023-02-19": 34,
       "2023-02-18": 127,
       "2023-02-17": 30,
@@ -143,8 +144,7 @@
       "2022-08-18": 39,
       "2022-08-16": 19,
       "2022-08-15": 21,
-      "2022-08-14": 20,
-      "2022-08-12": 20
+      "2022-08-14": 20
     }
   }
 ]
