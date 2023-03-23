@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.24%",
-    "time": 550,
-    "timeDay": 369,
-    "timeWeek": 459,
-    "timeMonth": 1288,
+    "time": 551,
+    "timeDay": 525,
+    "timeWeek": 460,
+    "timeMonth": 1290,
     "timeYear": 537,
     "dailyMinutesDown": {
       "2023-02-02": 29,
@@ -64,17 +64,17 @@
     "slug": "pet-project",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "97.58%",
-    "uptimeMonth": "92.73%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "92.76%",
     "uptimeYear": "98.58%",
-    "time": 3984,
-    "timeDay": 3720,
-    "timeWeek": 4759,
-    "timeMonth": 4902,
-    "timeYear": 4100,
+    "time": 3983,
+    "timeDay": 3712,
+    "timeWeek": 4702,
+    "timeMonth": 4904,
+    "timeYear": 4102,
     "dailyMinutesDown": {
-      "2023-03-22": 33,
+      "2023-03-22": 22,
       "2023-03-21": 67,
       "2023-03-20": 62,
       "2023-03-16": 82,
@@ -137,7 +137,8 @@
       "2022-11-22": 16,
       "2022-11-21": 33,
       "2022-11-07": 19,
-      "2022-11-06": 165
+      "2022-11-06": 165,
+      "2022-11-04": 25
     }
   }
 ]
