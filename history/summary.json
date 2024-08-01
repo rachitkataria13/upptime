@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rachitkataria.co.in.ico",
     "slug": "rachit-kataria-portfolio",
     "status": "up",
-    "uptime": "86.76%",
+    "uptime": "86.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "70.92%",
-    "time": 530,
-    "timeDay": 360,
-    "timeWeek": 500,
-    "timeMonth": 489,
-    "timeYear": 473,
+    "uptimeYear": "71.20%",
+    "time": 531,
+    "timeDay": 541,
+    "timeWeek": 496,
+    "timeMonth": 493,
+    "timeYear": 474,
     "dailyMinutesDown": {
       "2024-07-29": 44,
       "2024-07-21": 35,
@@ -127,8 +127,7 @@
       "2023-08-06": 1440,
       "2023-08-05": 1440,
       "2023-08-04": 1440,
-      "2023-08-03": 1440,
-      "2023-08-02": 1440
+      "2023-08-03": 1440
     }
   },
   {
@@ -137,18 +136,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pet-project",
     "status": "down",
-    "uptime": "61.94%",
+    "uptime": "61.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 4490,
+    "time": 5024,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-31": 55,
+      "2024-08-01": 72,
+      "2024-07-31": 1440,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
@@ -511,8 +511,7 @@
       "2023-08-06": 1440,
       "2023-08-05": 1440,
       "2023-08-04": 1440,
-      "2023-08-03": 1440,
-      "2023-08-02": 1440
+      "2023-08-03": 1440
     }
   }
 ]
