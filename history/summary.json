@@ -11,9 +11,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "96.83%",
     "time": 643,
-    "timeDay": 487,
-    "timeWeek": 553,
-    "timeMonth": 459,
+    "timeDay": 481,
+    "timeWeek": 543,
+    "timeMonth": 462,
     "timeYear": 686,
     "dailyMinutesDown": {
       "2026-01-11": 34,
@@ -44,7 +44,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pet-project",
     "status": "down",
-    "uptime": "43.48%",
+    "uptime": "43.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -55,7 +55,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-04": 121,
+      "2026-02-05": 122,
+      "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -418,8 +419,7 @@
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
-      "2025-02-06": 1440,
-      "2025-02-05": 1440
+      "2025-02-06": 1440
     }
   }
 ]
