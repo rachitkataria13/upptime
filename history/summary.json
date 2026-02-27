@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/rachitkataria.co.in.ico",
     "slug": "rachit-kataria-portfolio",
     "status": "up",
-    "uptime": "89.14%",
+    "uptime": "89.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "17.22%",
+    "uptimeWeek": "31.50%",
     "uptimeMonth": "73.62%",
     "uptimeYear": "97.01%",
     "time": 647,
-    "timeDay": 539,
-    "timeWeek": 511,
-    "timeMonth": 528,
+    "timeDay": 658,
+    "timeWeek": 536,
+    "timeMonth": 536,
     "timeYear": 695,
     "dailyMinutesDown": {
       "2026-02-24": 1266,
@@ -44,7 +44,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pet-project",
     "status": "down",
-    "uptime": "42.97%",
+    "uptime": "42.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -55,7 +55,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-26": 122,
+      "2026-02-27": 121,
+      "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
       "2026-02-23": 1440,
@@ -418,8 +419,7 @@
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
-      "2025-02-28": 1440,
-      "2025-02-27": 1440
+      "2025-02-28": 1440
     }
   }
 ]
